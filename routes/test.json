@@ -1,0 +1,35 @@
+[
+  //   https://api.amplitude.com/
+  {
+    "device_id": "e4384589-0985-457f-aaaf-98997e1b54abR",
+    "user_id": null,
+    "timestamp": 1641645067495,
+    "event_id": 14,
+    "session_id": 1641644976563,
+    "event_type": "ubt_정렬_거래대금",
+    "version_name": null,
+    "platform": "Web",
+    "os_name": "Chrome",
+    "os_version": "97",
+    "device_model": null,
+    "device_manufacturer": null,
+    "language": "ko",
+    "carrier": null,
+    "api_properties": {},
+    "event_properties": {
+      "from": "거래소_코인목록",
+      "category": "Searching ",
+      "pageDetail": "",
+      "action": "ubt_정렬_거래대금",
+      "eventDetail": "오름차순",
+      "login_yn": 0
+    },
+    "user_properties": {},
+    "uuid": "e2f488e4-ec43-4e8f-a651-5e9164c83ec4",
+    "library": { "name": "amplitude-js", "version": "5.11.0" },
+    "sequence_number": 14,
+    "groups": {},
+    "group_properties": {},
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+  }
+]

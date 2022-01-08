@@ -1,0 +1,20 @@
+{
+  "name": "upbit",
+  "version": "1.0.0",
+  "description": "Test upbit-api",
+  "main": "index.js",
+  "author": "Dongwon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
