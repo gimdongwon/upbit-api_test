@@ -6,7 +6,9 @@
   "author": "Dongwon",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "uuidv4": "^6.2.12"
   },
   "scripts": {
     "start": "nodemon index.js"
